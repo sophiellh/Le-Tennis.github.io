@@ -1,0 +1,6 @@
+.footer {
+	height: 260px;
+	display: flex;
+	flex-grow: 1;
+	background-color: #2C3333;
+}

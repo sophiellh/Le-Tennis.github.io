@@ -1,0 +1,25 @@
+.carousel-item {
+    margin-left: 1rem;
+}
+
+.carousel-item {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 350px;
+    margin-left: 1rem;
+    width: 150px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar {
+    height: 6px;
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #3d4852;
+    border-radius: 3px;
+}

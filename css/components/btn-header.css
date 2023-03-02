@@ -1,0 +1,20 @@
+.btn-header {
+	text-decoration: none;
+	padding: 8px 24px;
+	color: white;
+	border-radius: 6px;
+	margin: 15px;
+	display: flex;
+	align-items: center;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.btn-header:hover {
+	background-color: #181818;
+	transition: 1s;
+	color: white;
+}
+

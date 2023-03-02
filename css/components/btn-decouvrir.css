@@ -1,0 +1,21 @@
+.btn-decouvrir {
+	text-decoration: none;
+	background-color: white;
+	padding: 8px 24px;
+	color: black;
+	border-radius: 6px;
+	margin: 15px;
+	display: flex;
+	align-items: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+
+}
+
+.btn-decouvrir:hover {
+	transition: 1s;
+	color: black;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #2C3333;
+}

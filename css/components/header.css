@@ -1,0 +1,21 @@
+.header {
+	display: flex;
+	background-color: #181818;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: #16213E;
+}
+
+.header img {
+	width: 100px;
+	height: 100px;
+}
+
+#haut {
+	width: 1450px;
+	color : black;
+	background-color: #181818;
+	margin: 0 0 0 -450px;
+	left: 31%;
+	position:fixed;
+}

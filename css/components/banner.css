@@ -1,0 +1,8 @@
+.banner {
+	padding: 180px;
+	background-image: url("../../images/banner.jpg");
+	background-position: center;
+	color: white;
+	margin-bottom: 50px;
+	font-size: 25px;
+}

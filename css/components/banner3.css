@@ -1,0 +1,9 @@
+.banner3 {
+	display: flex;
+	justify-content: space-between;
+}
+
+.banner3 p {
+	margin-left: 10px;
+	font-size: 25px;
+}

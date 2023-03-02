@@ -1,0 +1,27 @@
+.banner2 img {
+	display: block;
+	align-items: center;
+	width: 710px;
+	height: 500px;
+	padding-bottom: 10px;
+	margin-left: 3px;
+}
+
+.banner2 {
+	
+	margin-bottom: 50px;
+	background-position: center;
+	flex-grow: 1;
+}
+
+.banner2 p {
+	font-family: 'Saira Condensed', sans-serif;
+}
+
+.banner2 h1 {
+	margin-left: 30px;
+	margin-bottom: -50px;
+}
+
+
+

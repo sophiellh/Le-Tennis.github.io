@@ -1,0 +1,7 @@
+.container {
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	justify-content: space-around;
+	flex-grow: 1;
+}

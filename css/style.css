@@ -1,0 +1,180 @@
+@import url("components/banner.css");
+@import url("components/logo.css");
+@import url("components/header.css");
+@import url("components/btn-header.css");
+@import url("components/banner2.css");
+@import url("components/banner3.css");
+@import url("components/container.css");
+@import url("components/btn-decouvrir.css");
+@import url("components/video.css");
+@import url("components/carousel-item.css");
+@import url("components/carousel-items.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+@import url("components/card-footer.css");
+@import url("components/button.css");
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&display=swap');
+
+body {
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Inter Tight', sans-serif;
+}
+
+
+
+@media (max-width: 1400px) {
+	.banner2 img {
+		width: 1350px;
+	}
+	.container {
+		width: 1350px;
+	}
+	.video {
+		width: 1100px;
+		height: 475px;
+	}
+}
+
+
+
+@media (max-width: 1345px) {
+	.banner2 img {
+		width: 1295px;
+	}
+	.container {
+		width: 1295px;
+	}
+
+}
+
+@media (max-width: 1290px) {
+	.banner2 img {
+		width: 1240px;
+	}
+	.container {
+		width: 1240px;	
+	}
+}
+
+@media (max-width: 1235px) {
+	.banner2 img {
+		width: 1185px;
+	}
+	.container {
+		width: 1185px;	
+	}
+}
+
+@media (max-width: 1180px) {
+	.banner2 img {
+		width: 1130px;
+	}
+	.container {
+		width: 1130px;	
+	}
+}
+
+@media (max-width: 1125px) {
+	.banner2 img {
+		width: 1075px;
+	}
+	.container {
+		width: 1075px;	
+	}
+}
+
+@media (max-width: 1070px) {
+	.banner2 img {
+		width: 1020px;
+	}
+	.container {
+		width: 1020px;	
+	}
+}
+
+@media (max-width: 1015px) {
+	.banner2 img {
+		width: 965px;
+	}
+	.container {
+		width: 965px;	
+	}
+}
+
+@media (max-width: 960px) {
+	.banner2 img {
+		width: 910px;
+	}
+	.container {
+		width: 910px;	
+	}
+}
+
+@media (max-width: 905px) {
+	.banner2 img {
+		width: 855px;
+	}
+	.container {
+		width: 855px;	
+	}
+}
+
+@media (max-width: 850px) {
+	.banner2 img {
+		width: 800px;
+	}
+	.container {
+		width: 800px;	
+	}
+}
+
+@media (max-width: 795px) {
+	.banner2 img {
+		width: 745px;
+	}
+	.container {
+		width: 745px;	
+	}
+}
+
+@media (max-width: 740px) {
+	.banner2 img {
+		width: 690px;
+	}
+	.container {
+		width: 690px;	
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

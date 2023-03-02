@@ -1,0 +1,22 @@
+.card-footer {
+	background-color: #2C3333;
+	height: 200px;
+	width: 410px;
+	margin: 30px;
+}
+
+.card-footer h2 {
+	color: #F7F6DC;
+	margin-left: 60px;
+}
+
+.card-footer p {
+	color: #F7F6DC;
+	margin-left: 60px;
+}
+
+.card-footer a {
+	color: #F7F6DC;
+	margin-left: 60px;
+	text-decoration: none;
+}
